@@ -1,0 +1,12 @@
+.bundle/
+.idea/
+__tests__/
+copied_storybook_config/
+External Libraries/
+node_modules/
+Pods/
+
+flux_todo/android/app/build/
+flux_todo/android/.idea/
+flux_todo/ios/build/
+flux_todo/vendor/bundle/
